@@ -38,7 +38,7 @@ If you liked this repository, feel free to leave a star ⭐
 
 ## Features
 
-  * **Moderation:** Commands such as `kick`, `ban`, and `mute` to assist your moderator staff
+  * **Moderation:** Commands such as `kick`, `ban` and `mute` to assist your moderator staff
   * **Fun & Games:** Tons of fun commands like `inspire`, `slap`, `hug` , `kiss` and more
   * **Information:** Commands like `userinfo` and `serverinfo` for general utility
 
