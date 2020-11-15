@@ -42,7 +42,7 @@ If you liked this repository, feel free to leave a star ⭐
   * **Fun & Games:** Tons of fun commands like `inspire`, `slap`, `hug` , `kiss` and more
   * **Information:** Commands like `userinfo` and `serverinfo` for general utility
 
-Cordbot also comes packed with afew extra features, such as:
+Cordbot also comes packed with a few extra features, such as:
 
   * **Auto role** assignment
   * **Welcome messages** and **farewell messages**
