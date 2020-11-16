@@ -8,9 +8,9 @@ module.exports = {
 		//message.channel.send(`Server name: ${message.guild.name}\nTotal members: ${message.guild.memberCount}`);
 	
 	const serverInfoEmbed = new Discord.MessageEmbed()	
-    .setTitle(`INDEAD Bot`)
+    .setTitle(`Cordbot`)
     .setDescription('General purpose and moderation bot')
-    .setFooter(`Created by Sushi (2020)`);
+    .setFooter(`Created by Sushipie (2020)`);
 	message.channel.send(serverInfoEmbed);
        
 },
