@@ -67,6 +67,7 @@ to snag all of the dependencies. Of course, you need [node](https://nodejs.org/e
 You have to create a `config.json` file in order to run the bot (you can use the example file provided as a base). Your file should look something like this:
 ```
 {
+  "prefix": "your_prefix_here",
   "token": "your_token_here",
   "tenorKey": "your_tenor_API_key_here",
 }
